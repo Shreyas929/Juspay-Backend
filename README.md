@@ -12,8 +12,6 @@ Features<br>
 
 📜 View transaction history
 
-❌ Simulated payment failures (20% chance)
-
 📂 Modular code split across files
 
 🗃️ MongoDB used for persistent storage
